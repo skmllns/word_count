@@ -3,15 +3,7 @@ Converts Excel file containing student comments into a form usable by Tableau fo
 
 # Input
 
-.xlsx file
-
-SAMPLE
-
-|------------------------------------------------------------|
-|---class----|-enrollment-|-gender-|-------comments----------|
-|------------------------------------------------------------|
-| First-year | Full-Time  | Gender | I love this university. |
-|------------------------------------------------------------|
+.xlsx file, with headers "Class", "Enrollment", "Gender", "Comments"
 
 # SCRIPT
 
@@ -20,5 +12,7 @@ Python script strips comments and uses regular expressions and NLTK parser to ex
 # Output
 
 CSV file with an added ID attribute, original headers, and a single word from the corresponding comments per row. 
-Imported into Tableau, craeted word cloud which can be found here: https://public.tableau.com/profile/sarah.mullins6785#!/vizhome/NSSEWordCloud/Sheet1
+Imported into Tableau and created a word cloud.
+
+For privacy reasons, the input and output files have not been included.
 
