@@ -22,7 +22,7 @@ id,class,enrollment,gender,word
 1,First-year,Full-time,Female,cause
 1,First-year,Full-time,Female,bad
 1,First-year,Full-time,Female,reputation
-1,First-year,Full-time,Female,m
+1,First-year,Full-time,Female,i'm
 1,First-year,Full-time,Female,assuming
 1,First-year,Full-time,Female,look
 1,First-year,Full-time,Female,making
@@ -50,7 +50,6 @@ id,class,enrollment,gender,word
 3,First-year,Full-time,Female,quality
 3,First-year,Full-time,Female,education
 3,First-year,Full-time,Female,students
-3,First-year,Full-time,Female,s
 3,First-year,Full-time,Female,ridiculous
 3,First-year,Full-time,Female,bellarmine
 3,First-year,Full-time,Female,build
@@ -212,7 +211,7 @@ id,class,enrollment,gender,word
 3,First-year,Full-time,Female,theory
 3,First-year,Full-time,Female,classes
 3,First-year,Full-time,Female,pertain
-3,First-year,Full-time,Female,students
+3,First-year,Full-time,Female,students'
 3,First-year,Full-time,Female,intended
 3,First-year,Full-time,Female,majors
 3,First-year,Full-time,Female,college
@@ -259,7 +258,7 @@ id,class,enrollment,gender,word
 9,First-year,Full-time,Female,need
 9,First-year,Full-time,Female,many
 9,First-year,Full-time,Female,career
-9,First-year,Full-time,Female,m
+9,First-year,Full-time,Female,i'm
 9,First-year,Full-time,Female,learning
 9,First-year,Full-time,Female,anything
 9,First-year,Full-time,Female,new
@@ -290,7 +289,7 @@ id,class,enrollment,gender,word
 9,First-year,Full-time,Female,outside
 9,First-year,Full-time,Female,math
 9,First-year,Full-time,Female,lab
-10,First-year,Full-time,Male,ve
+10,First-year,Full-time,Male,i've
 10,First-year,Full-time,Male,been
 10,First-year,Full-time,Male,impressed
 10,First-year,Full-time,Male,quality
@@ -308,15 +307,14 @@ id,class,enrollment,gender,word
 10,First-year,Full-time,Male,was
 10,First-year,Full-time,Male,challenging
 10,First-year,Full-time,Male,feel
-10,First-year,Full-time,Male,ve
+10,First-year,Full-time,Male,i've
 10,First-year,Full-time,Male,learned
 10,First-year,Full-time,Male,lot
 10,First-year,Full-time,Male,classes
-10,First-year,Full-time,Male,ve
+10,First-year,Full-time,Male,i've
 10,First-year,Full-time,Male,taken
 10,First-year,Full-time,Male,look
 10,First-year,Full-time,Male,classes
-10,First-year,Full-time,Male,ll
 10,First-year,Full-time,Male,take
 10,First-year,Full-time,Male,future
 11,First-year,Not full-time,Female,teachers
@@ -326,8 +324,6 @@ id,class,enrollment,gender,word
 11,First-year,Not full-time,Female,ethnicities
 11,First-year,Not full-time,Female,others
 11,First-year,Not full-time,Female,be
-11,First-year,Not full-time,Female,doesn
-11,First-year,Not full-time,Female,t
 12,Senior,Full-time,Female,love
 12,Senior,Full-time,Female,soccer
 13,Senior,Full-time,Female,university
@@ -375,15 +371,11 @@ id,class,enrollment,gender,word
 14,Senior,Full-time,Female,wish
 14,Senior,Full-time,Female,student
 14,Senior,Full-time,Female,loans
-14,Senior,Full-time,Female,weren
-14,Senior,Full-time,Female,t
 14,Senior,Full-time,Female,great
 14,Senior,Full-time,Female,hated
 14,Senior,Full-time,Female,more
 14,Senior,Full-time,Female,loved
 14,Senior,Full-time,Female,bellarmine
-14,Senior,Full-time,Female,wouldn
-14,Senior,Full-time,Female,t
 14,Senior,Full-time,Female,be
 14,Senior,Full-time,Female,school
 14,Senior,Full-time,Female,changed
@@ -418,8 +410,6 @@ id,class,enrollment,gender,word
 15,Senior,Full-time,Female,lot
 15,Senior,Full-time,Female,students
 15,Senior,Full-time,Female,bellarmine
-15,Senior,Full-time,Female,didn
-15,Senior,Full-time,Female,t
 15,Senior,Full-time,Female,care
 15,Senior,Full-time,Female,education
 15,Senior,Full-time,Female,have
@@ -428,7 +418,7 @@ id,class,enrollment,gender,word
 16,Senior,Full-time,Female,university
 16,Senior,Full-time,Female,is
 16,Senior,Full-time,Female,beautiful
-16,Senior,Full-time,Female,s
+16,Senior,Full-time,Female,it's
 16,Senior,Full-time,Female,chose
 16,Senior,Full-time,Female,come
 16,Senior,Full-time,Female,bellarmine
@@ -465,8 +455,7 @@ id,class,enrollment,gender,word
 16,Senior,Full-time,Female,body
 16,Senior,Full-time,Female,bitter
 16,Senior,Full-time,Female,cynical
-16,Senior,Full-time,Female,school
-16,Senior,Full-time,Female,s
+16,Senior,Full-time,Female,school's
 16,Senior,Full-time,Female,real
 16,Senior,Full-time,Female,motives
 16,Senior,Full-time,Female,myself
@@ -491,7 +480,7 @@ id,class,enrollment,gender,word
 16,Senior,Full-time,Female,having
 16,Senior,Full-time,Female,attended
 16,Senior,Full-time,Female,bellarmine
-16,Senior,Full-time,Female,m
+16,Senior,Full-time,Female,i'm
 16,Senior,Full-time,Female,grateful
 16,Senior,Full-time,Female,time
 17,Senior,Full-time,Female,have
@@ -508,8 +497,6 @@ id,class,enrollment,gender,word
 17,Senior,Full-time,Female,support
 17,Senior,Full-time,Female,teachers
 17,Senior,Full-time,Female,instructors
-17,Senior,Full-time,Female,didn
-17,Senior,Full-time,Female,t
 17,Senior,Full-time,Female,have
 17,Senior,Full-time,Female,anyone
 17,Senior,Full-time,Female,feel
@@ -534,17 +521,13 @@ id,class,enrollment,gender,word
 18,Senior,Full-time,Female,money
 18,Senior,Full-time,Female,live
 18,Senior,Full-time,Female,campus
-18,Senior,Full-time,Female,don
-18,Senior,Full-time,Female,t
 18,Senior,Full-time,Female,have
 18,Senior,Full-time,Female,money
 18,Senior,Full-time,Female,means
 18,Senior,Full-time,Female,live
 18,Senior,Full-time,Female,campus
-18,Senior,Full-time,Female,don
-18,Senior,Full-time,Female,t
 18,Senior,Full-time,Female,care
-18,Senior,Full-time,Female,ve
+18,Senior,Full-time,Female,i've
 18,Senior,Full-time,Female,been
 18,Senior,Full-time,Female,told
 18,Senior,Full-time,Female,quit
@@ -555,8 +538,6 @@ id,class,enrollment,gender,word
 18,Senior,Full-time,Female,have
 18,Senior,Full-time,Female,means
 18,Senior,Full-time,Female,do
-18,Senior,Full-time,Female,don
-18,Senior,Full-time,Female,t
 18,Senior,Full-time,Female,live
 18,Senior,Full-time,Female,campus
 18,Senior,Full-time,Female,making
@@ -589,7 +570,6 @@ id,class,enrollment,gender,word
 18,Senior,Full-time,Female,majors
 18,Senior,Full-time,Female,is
 18,Senior,Full-time,Female,what
-18,Senior,Full-time,Female,m
 18,Senior,Full-time,Female,getting
 18,Senior,Full-time,Female,degree
 18,Senior,Full-time,Female,do
@@ -604,7 +584,7 @@ id,class,enrollment,gender,word
 19,Senior,Full-time,Female,university
 19,Senior,Full-time,Female,claims
 19,Senior,Full-time,Female,provide
-19,Senior,Full-time,Female,s
+19,Senior,Full-time,Female,it's
 19,Senior,Full-time,Female,students
 19,Senior,Full-time,Female,what
 19,Senior,Full-time,Female,does
@@ -631,7 +611,7 @@ id,class,enrollment,gender,word
 19,Senior,Full-time,Female,attend
 19,Senior,Full-time,Female,school
 19,Senior,Full-time,Female,future
-20,Senior,Full-time,Female,ve
+20,Senior,Full-time,Female,i've
 20,Senior,Full-time,Female,had
 20,Senior,Full-time,Female,many
 20,Senior,Full-time,Female,experiences
@@ -641,7 +621,6 @@ id,class,enrollment,gender,word
 20,Senior,Full-time,Female,minority
 20,Senior,Full-time,Female,woman
 20,Senior,Full-time,Female,campus
-20,Senior,Full-time,Female,t
 20,Senior,Full-time,Female,say
 20,Senior,Full-time,Female,certainty
 20,Senior,Full-time,Female,recommend
@@ -740,9 +719,8 @@ id,class,enrollment,gender,word
 22,Senior,Full-time,Female,are
 22,Senior,Full-time,Female,catholic
 22,Senior,Full-time,Female,institution
-22,Senior,Full-time,Female,t
 22,Senior,Full-time,Female,reflect
-22,Senior,Full-time,Female,s
+22,Senior,Full-time,Female,it's
 22,Senior,Full-time,Female,sad
 23,Senior,Full-time,Female,reason
 23,Senior,Full-time,Female,did
@@ -836,8 +814,7 @@ id,class,enrollment,gender,word
 26,Senior,Full-time,Female,improve
 26,Senior,Full-time,Female,is
 26,Senior,Full-time,Female,staff
-26,Senior,Full-time,Female,bursa
-26,Senior,Full-time,Female,s
+26,Senior,Full-time,Female,bursa's
 26,Senior,Full-time,Female,office
 26,Senior,Full-time,Female,staff
 26,Senior,Full-time,Female,working
@@ -863,8 +840,7 @@ id,class,enrollment,gender,word
 26,Senior,Full-time,Female,be
 26,Senior,Full-time,Female,big
 26,Senior,Full-time,Female,hassle
-26,Senior,Full-time,Female,employee
-26,Senior,Full-time,Female,s
+26,Senior,Full-time,Female,employee's
 26,Senior,Full-time,Female,assist
 26,Senior,Full-time,Female,questions
 26,Senior,Full-time,Female,concerns
@@ -924,7 +900,7 @@ id,class,enrollment,gender,word
 27,Senior,Full-time,Female,business
 27,Senior,Full-time,Female,real
 27,Senior,Full-time,Female,world
-27,Senior,Full-time,Female,m
+27,Senior,Full-time,Female,i'm
 27,Senior,Full-time,Female,okay
 27,Senior,Full-time,Female,figuring
 27,Senior,Full-time,Female,own
@@ -955,8 +931,8 @@ id,class,enrollment,gender,word
 27,Senior,Full-time,Female,graduate
 27,Senior,Full-time,Female,leave
 27,Senior,Full-time,Female,plenty
-27,Senior,Full-time,Female,isn
-27,Senior,Full-time,Female,t
+27,Senior,Full-time,Female,isn't
+27,Senior,Full-time,Female,always
 27,Senior,Full-time,Female,guarantee
 27,Senior,Full-time,Female,that
 27,Senior,Full-time,Female,find
@@ -991,7 +967,7 @@ id,class,enrollment,gender,word
 27,Senior,Full-time,Female,areas
 27,Senior,Full-time,Female,grow
 27,Senior,Full-time,Female,school
-27,Senior,Full-time,Female,s
+27,Senior,Full-time,Female,it's
 27,Senior,Full-time,Female,great
 27,Senior,Full-time,Female,bellarmine
 27,Senior,Full-time,Female,is
@@ -1010,8 +986,7 @@ id,class,enrollment,gender,word
 28,Senior,Full-time,Female,love
 28,Senior,Full-time,Female,facilities
 28,Senior,Full-time,Female,faculty
-28,Senior,Full-time,Female,s
-28,Senior,Full-time,Female,s
+28,Senior,Full-time,Female,it's
 28,Senior,Full-time,Female,better
 28,Senior,Full-time,Female,transylvania
 29,Senior,Full-time,Female,like
@@ -1054,8 +1029,6 @@ id,class,enrollment,gender,word
 29,Senior,Full-time,Female,pay
 29,Senior,Full-time,Female,beginning
 29,Senior,Full-time,Female,week
-29,Senior,Full-time,Female,don
-29,Senior,Full-time,Female,t
 29,Senior,Full-time,Female,use
 29,Senior,Full-time,Female,meals
 29,Senior,Full-time,Female,does
@@ -1068,7 +1041,7 @@ id,class,enrollment,gender,word
 29,Senior,Full-time,Female,missed
 29,Senior,Full-time,Female,meals
 29,Senior,Full-time,Female,adding
-29,Senior,Full-time,Female,d
+29,Senior,Full-time,Female,i'd
 29,Senior,Full-time,Female,be
 29,Senior,Full-time,Female,able
 29,Senior,Full-time,Female,use
@@ -1093,7 +1066,7 @@ id,class,enrollment,gender,word
 29,Senior,Full-time,Female,make
 29,Senior,Full-time,Female,cafeteria
 29,Senior,Full-time,Female,others
-29,Senior,Full-time,Female,re
+29,Senior,Full-time,Female,we're
 29,Senior,Full-time,Female,free
 29,Senior,Full-time,Female,have
 29,Senior,Full-time,Female,guests
@@ -1113,7 +1086,7 @@ id,class,enrollment,gender,word
 30,Senior,Full-time,Female,psychology
 30,Senior,Full-time,Female,department
 30,Senior,Full-time,Female,recognize
-30,Senior,Full-time,Female,m
+30,Senior,Full-time,Female,i'm
 30,Senior,Full-time,Female,biased
 30,Senior,Full-time,Female,believe
 30,Senior,Full-time,Female,be
@@ -1156,14 +1129,10 @@ id,class,enrollment,gender,word
 30,Senior,Full-time,Female,interest
 30,Senior,Full-time,Female,students
 30,Senior,Full-time,Female,know
-30,Senior,Full-time,Female,wouldn
-30,Senior,Full-time,Female,t
 30,Senior,Full-time,Female,have
 30,Senior,Full-time,Female,choice
 30,Senior,Full-time,Female,doctoral
 30,Senior,Full-time,Female,programs
-30,Senior,Full-time,Female,weren
-30,Senior,Full-time,Female,t
 30,Senior,Full-time,Female,present
 30,Senior,Full-time,Female,undergraduate
 30,Senior,Full-time,Female,career
@@ -1176,8 +1145,7 @@ id,class,enrollment,gender,word
 30,Senior,Full-time,Female,intelligent
 30,Senior,Full-time,Female,passionate
 30,Senior,Full-time,Female,field
-30,Senior,Full-time,Female,bellarmine
-30,Senior,Full-time,Female,s
+30,Senior,Full-time,Female,bellarmine's
 30,Senior,Full-time,Female,psychology
 30,Senior,Full-time,Female,department
 30,Senior,Full-time,Female,is
@@ -1243,8 +1211,7 @@ id,class,enrollment,gender,word
 34,Senior,Full-time,Male,active
 34,Senior,Full-time,Male,member
 34,Senior,Full-time,Male,fraternity
-34,Senior,Full-time,Male,bellarmine
-34,Senior,Full-time,Male,s
+34,Senior,Full-time,Male,bellarmine's
 34,Senior,Full-time,Male,campus
 34,Senior,Full-time,Male,seems
 34,Senior,Full-time,Male,are
@@ -1272,8 +1239,7 @@ id,class,enrollment,gender,word
 34,Senior,Full-time,Male,does
 34,Senior,Full-time,Male,lot
 34,Senior,Full-time,Male,good
-34,Senior,Full-time,Male,bellarmine
-34,Senior,Full-time,Male,s
+34,Senior,Full-time,Male,bellarmine's
 34,Senior,Full-time,Male,campus
 34,Senior,Full-time,Male,goes
 34,Senior,Full-time,Male,unnoticed
@@ -1316,8 +1282,7 @@ id,class,enrollment,gender,word
 34,Senior,Full-time,Male,view
 34,Senior,Full-time,Male,greek
 34,Senior,Full-time,Male,life
-34,Senior,Full-time,Male,bellarmine
-34,Senior,Full-time,Male,s
+34,Senior,Full-time,Male,bellarmine's
 34,Senior,Full-time,Male,campus
 34,Senior,Full-time,Male,help
 34,Senior,Full-time,Male,few
@@ -1353,8 +1318,7 @@ id,class,enrollment,gender,word
 35,Senior,Full-time,Male,university
 35,Senior,Full-time,Male,are
 35,Senior,Full-time,Male,members
-35,Senior,Full-time,Male,university
-35,Senior,Full-time,Male,s
+35,Senior,Full-time,Male,university's
 35,Senior,Full-time,Male,teaching
 35,Senior,Full-time,Male,staff
 35,Senior,Full-time,Male,who
@@ -1395,7 +1359,7 @@ id,class,enrollment,gender,word
 37,Senior,Full-time,Male,part
 37,Senior,Full-time,Male,mission
 37,Senior,Full-time,Male,campus
-37,Senior,Full-time,Male,d
+37,Senior,Full-time,Male,i'd
 37,Senior,Full-time,Male,clarify
 37,Senior,Full-time,Male,statement
 37,Senior,Full-time,Male,is
@@ -1405,8 +1369,7 @@ id,class,enrollment,gender,word
 37,Senior,Full-time,Male,development
 37,Senior,Full-time,Male,is
 37,Senior,Full-time,Male,part
-37,Senior,Full-time,Male,bellarmine
-37,Senior,Full-time,Male,s
+37,Senior,Full-time,Male,bellarmine's
 37,Senior,Full-time,Male,mission
 37,Senior,Full-time,Male,statement
 37,Senior,Full-time,Male,ethical
@@ -1437,8 +1400,7 @@ id,class,enrollment,gender,word
 37,Senior,Full-time,Male,questions
 37,Senior,Full-time,Male,faith
 37,Senior,Full-time,Male,dies
-37,Senior,Full-time,Male,that
-37,Senior,Full-time,Male,s
+37,Senior,Full-time,Male,that's
 37,Senior,Full-time,Male,bu
 37,Senior,Full-time,Male,students
 37,Senior,Full-time,Male,declare
@@ -1453,14 +1415,12 @@ id,class,enrollment,gender,word
 37,Senior,Full-time,Male,grow
 37,Senior,Full-time,Male,learn
 37,Senior,Full-time,Male,doubt
-37,Senior,Full-time,Male,t
 37,Senior,Full-time,Male,climb
 37,Senior,Full-time,Male,mountain
 37,Senior,Full-time,Male,crampons
 37,Senior,Full-time,Male,rope
 37,Senior,Full-time,Male,told
 37,Senior,Full-time,Male,do
-37,Senior,Full-time,Male,t
 37,Senior,Full-time,Male,give
 37,Senior,Full-time,Male,tools
 37,Senior,Full-time,Male,need
@@ -1474,8 +1434,6 @@ id,class,enrollment,gender,word
 37,Senior,Full-time,Male,mountain
 37,Senior,Full-time,Male,pretend
 37,Senior,Full-time,Male,is
-37,Senior,Full-time,Male,isn
-37,Senior,Full-time,Male,t
 37,Senior,Full-time,Male,is
 37,Senior,Full-time,Male,bellarmine
 37,Senior,Full-time,Male,is
@@ -1605,8 +1563,6 @@ id,class,enrollment,gender,word
 39,Senior,Full-time,Male,had
 39,Senior,Full-time,Male,opportunities
 39,Senior,Full-time,Male,who
-39,Senior,Full-time,Male,don
-39,Senior,Full-time,Male,t
 39,Senior,Full-time,Male,appear
 39,Senior,Full-time,Male,be
 39,Senior,Full-time,Male,minority
