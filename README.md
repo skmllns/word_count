@@ -16,3 +16,7 @@ Imported into Tableau and created a word cloud.
 
 For privacy reasons, the input and output files have not been included.
 
+# Dependencies
+
+openpyxl, re, collections, csv, nltk
+
