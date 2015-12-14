@@ -7,7 +7,9 @@ import nltk
 read_file = "word_count_input.xlsx"
 write_file = "word_count_output.csv"
 pos_to_pull = ['JJ', 'JJR', 'JJS', 'NN', 'NNS', 'NNP', 'NNPS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP',
-               'VBZ', 'WDT', 'WP', 'WP$', 'WRP']
+               'VBZ']
+               
+words_to_avoid = ['be', 'had', 'is', 'am', 'was', 'has', 'are', 'do']
 
 headers = ["id", "class", "enrollment", "gender", "word"]
 wb = openpyxl.load_workbook(read_file)
@@ -24,7 +26,7 @@ with open(write_file, 'wb') as f:
       words = re.findall(r'\w+\'*\w*', sheet.cell(row=row_num, column=3).value.lower())
       tagged_words = nltk.pos_tag(words)
       for word in tagged_words:
-         if word[1] in pos_to_pull:
+         if word[1] in pos_to_pull and word[0] not in words_to_avoid:
             writer.writerow([row_num, year, enrollment, gender, word[0]])
 
       
